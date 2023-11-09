@@ -13,7 +13,3 @@ Stack Overflow. (2022, May 3). What's the difference between .NET Core, .NET Fra
 SQLAlchemy. (2023). Error messages. SQLAlchemy 2.0 Documentation. Retrieved [2023.09.05] from https://docs.sqlalchemy.org/en/20/errors.html#error-e3q8)
 
 
-### Grade:
-![Screenshot 2023-10-15 220540](https://github.com/leeangel0428/Excel_analysis/assets/137225965/3f3fa726-1e4d-4b56-b88c-7f620ca19068)
-
-![Screenshot 2023-10-15 220545](https://github.com/leeangel0428/Excel_analysis/assets/137225965/a0275b9d-76b3-46f4-b5bb-bf1c1d997862)
